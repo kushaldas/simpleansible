@@ -1,0 +1,7 @@
+---
+# tasks file for htop
+- name: Install htop
+  ansible.builtin.package:
+    name: htop
+    state: present
+
