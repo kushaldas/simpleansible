@@ -1,2 +1,6 @@
 [random]
 random.kushaldas.in
+
+
+[prod:vars]
+ansible_connection=local
