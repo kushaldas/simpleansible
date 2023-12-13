@@ -2,7 +2,7 @@
 random.kushaldas.in
 
 
-[prod]
+[prod:children]
 random
 
 [prod:vars]
